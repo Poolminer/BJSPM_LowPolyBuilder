@@ -1,0 +1,18 @@
+{
+  "name": "LowPolyBuilder",
+  "version": "1.0.0",
+  "sid": "gijs/LowPolyBuilder@1.0.0",
+  "description": "Low-poly mesh builder",
+  "keywords": [
+    "low",
+    "poly",
+    "low-poly",
+    "builder",
+    "mesh",
+    "car",
+    "vehicle"
+  ],
+  "license": "MIT",
+  "username": "gijs",
+  "dependencies": []
+}

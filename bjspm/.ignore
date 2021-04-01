@@ -1,0 +1,9 @@
+.vscode/**
+.vscode/**/.*
+.git/**
+.git/**/.*
+.gitignore
+tsconfig.json
+package.json
+package-lock.json
+bjspm/.ignore

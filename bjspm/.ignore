@@ -7,3 +7,4 @@ tsconfig.json
 package.json
 package-lock.json
 bjspm/.ignore
+readme.md

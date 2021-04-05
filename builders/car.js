@@ -50,7 +50,7 @@ export class LowPolyCarBuilder {
                     bodyColorMultiplier: 0.60,
                     colorEmission: 0.15,
                     width: 1,
-                    windowColor: '#9BDAFF',
+                    windowColor: '#D6F0FF',
                     licensePlateColor: '#FFFFFF',
                     licensePlateType: LowPolyLicensePlateTypes.EU,
                     frontLightsColor: '#FFEA84',
@@ -450,6 +450,13 @@ export class LowPolyCarBuilder {
         }
         if (mergeExcludes.indexOf(LowPolyCarParts.LICENSE_PLATE_REAR) === -1) {
             toMerge.push(npt);
+        }
+        if (toMerge.length === 0) {
+            var carMesh = new Mesh(name, scene);
+            for (let mesh of allMeshes) {
+                mesh.parent = carMesh;
+            }
+            return carMesh;
         }
         var merged = Mesh.MergeMeshes(toMerge, true, undefined, undefined, undefined, true);
         if (mergeExcludes.length === 0) {

@@ -1,7 +1,7 @@
 {
   "name": "LowPolyBuilder",
-  "version": "1.0.0",
-  "sid": "gijs/LowPolyBuilder@1.0.0",
+  "version": "1.1.4",
+  "sid": "gijs/LowPolyBuilder@1.1.4",
   "description": "Low-poly mesh builder",
   "keywords": [
     "low",

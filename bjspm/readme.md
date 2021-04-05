@@ -1,6 +1,14 @@
 ## Low-poly mesh builder
 
-This package is for creating low-poly meshes. Currently it can create simple cars and their constituent parts.
+This package is for creating low-poly meshes. Currently it can create simple cars, passenger airplanes, and their constituent parts.
+
+**Demos:**
+
+[Simple car demo](https://playground.croncle.com/#CEGIX2)
+
+[Cars driving along a path](https://playground.croncle.com/#BHKRV0#1)
+
+[Airplanes flying over the cars](https://playground.croncle.com/#BHKRV0#5)
 
 **API overview:**
 
@@ -10,8 +18,12 @@ This package is for creating low-poly meshes. Currently it can create simple car
 
 [builders/wheel](/builders/wheel.d.ts?view)
 
-**Demos:**
+[builders/airplane](/builders/airplane.d.ts?view)
 
-[Simple car demo](https://playground.croncle.com/#CEGIX2)
+[builders/airplaneEngine](/builders/airplaneEngine.d.ts?view)
 
-[Cars driving along a path](https://playground.croncle.com/#BHKRV0)
+[builders/airplaneWing](/builders/airplaneWing.d.ts?view)
+
+**GitHub:**
+
+https://github.com/Poolminer/BJSPM_LowPolyBuilder

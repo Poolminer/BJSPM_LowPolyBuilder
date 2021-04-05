@@ -559,6 +559,15 @@ export class LowPolyCarBuilder {
             toMerge.push(npt);
         }
 
+        if (toMerge.length === 0) {
+            var carMesh = new Mesh(name, scene);
+
+            for (let mesh of allMeshes) {
+                mesh.parent = carMesh;
+            }
+            return carMesh;
+        }
+
         var merged = Mesh.MergeMeshes(toMerge, true, undefined, undefined, undefined, true);
 
         if (mergeExcludes.length === 0) {

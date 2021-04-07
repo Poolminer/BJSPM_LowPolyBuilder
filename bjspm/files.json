@@ -1,5 +1,5 @@
 {
-  "422f7fa325bfb5dcf941e2923f2e45fe": [
+  "f93d30e502b80b9b68df126d53b36d2b": [
     "bjspm/files.json"
   ],
   "29f0a7470c017e3739fe89381314fc3a": [
@@ -11,13 +11,13 @@
   "4c0ebec8ed2bd4940f75b6ca99b837f3": [
     "bjspm/index.ts"
   ],
-  "09e13f908d9f743001d42fde535ccd1d": [
+  "3caeb23595b274373c9030b769579db7": [
     "bjspm/package.json"
   ],
-  "43b0e0a9bf9b4ab5025390d8c30e06b9": [
+  "9777d9882e0ce49f61b86278bef850ec": [
     "bjspm/preview.png"
   ],
-  "c53896274374c7f1671faf054d813cc7": [
+  "becd503706e79d58dfac31661d611493": [
     "bjspm/readme.md"
   ],
   "1123cb9b6e9c63a7caac5501826001cb": [
@@ -65,6 +65,15 @@
   "e5b8257922fa6871d00d574c953e6f69": [
     "builders/carLight.ts"
   ],
+  "6c46da13a5befb450f4be948316a3fee": [
+    "builders/path.d.ts"
+  ],
+  "bd0d2e3163fb7f967b1a5b332412e609": [
+    "builders/path.js"
+  ],
+  "0030ff177d91b3b29851e63e00489df3": [
+    "builders/path.ts"
+  ],
   "f131ea29e276bacda2cba4be8f0821ec": [
     "builders/wheel.d.ts"
   ],
@@ -77,9 +86,11 @@
   "1334f018c240950981335d5eb8dff23c": [
     "images/heightmap.png"
   ],
-  "4fce9a6fe79cde7e1e0a1f639a0bc907": [
+  "fca4d334e3ca877b986eda1a5ce5afa5": [
     "index.d.ts",
-    "index.js",
+    "index.js"
+  ],
+  "1847ed12060289e2396de1b4229ec711": [
     "index.ts"
   ],
   "6f709ca5d087de5d5f097d810496a7fd": [

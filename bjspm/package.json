@@ -1,7 +1,7 @@
 {
   "name": "LowPolyBuilder",
-  "version": "1.1.4",
-  "sid": "gijs/LowPolyBuilder@1.1.4",
+  "version": "1.2.3",
+  "sid": "gijs/LowPolyBuilder@1.2.3",
   "description": "Low-poly mesh builder",
   "keywords": [
     "low",
@@ -10,7 +10,14 @@
     "builder",
     "mesh",
     "car",
-    "vehicle"
+    "vehicle",
+    "airplane",
+    "plane",
+    "jet",
+    "boeing",
+    "airbus",
+    "road",
+    "path"
   ],
   "license": "MIT",
   "username": "gijs",

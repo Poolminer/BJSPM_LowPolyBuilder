@@ -1,14 +1,14 @@
 ## Low-poly mesh builder
 
-This package is for creating low-poly meshes. Currently it can create simple cars, passenger airplanes, and their constituent parts.
+This package is for creating low-poly meshes. Currently it can create simple cars, passenger airplanes, and their constituent parts, and a path mesh.
 
 **Demos:**
 
 [Simple car demo](https://playground.croncle.com/#CEGIX2)
 
-[Cars driving along a path](https://playground.croncle.com/#BHKRV0#1)
+[Cars driving along a path](https://playground.croncle.com/#BHKRV0#7)
 
-[Airplanes flying over the cars](https://playground.croncle.com/#BHKRV0#5)
+[Airplanes flying over the cars](https://playground.croncle.com/#BHKRV0#8)
 
 **API overview:**
 
